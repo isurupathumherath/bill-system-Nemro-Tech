@@ -1,0 +1,132 @@
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\bin\Debug\Nemro.exe
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\bin\Debug\Nemro.pdb
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\obj\x86\Debug\Nemro.Login.resources
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\obj\x86\Debug\Nemro.Properties.Resources.resources
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\obj\x86\Debug\Nemro.csproj.GenerateResource.Cache
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\obj\x86\Debug\Nemro.exe
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\obj\x86\Debug\Nemro.pdb
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\bin\Debug\nemro.mdf
+C:\Users\isuru\AppData\Local\Temporary Projects\Nemro\bin\Debug\nemro_log.ldf
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.exe
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.pdb
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\Nemro.exe
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\Nemro.pdb
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Admin.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Login.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Properties.Resources.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.GenerateResource.Cache
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Client.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.NewBill.resources
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\Nemro.exe.config
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.CustomerSearch.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Payment.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.UserControl1.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.paymentUserControl.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.CustomerSearchUC.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Admin_Only.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.LCC11.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.ResolveComReference.cache
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.VSTOEE100.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.MSDAOSP.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.MsoScreenRecorderLib.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.NoteLinkComLib.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.ONAddInForPPT.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.ONAddInForWord.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.ONButtonAddInForPPT.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.OneNoteEx.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.OneNoteIEAddin.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.OSE.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.otkloadr.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.OWSSUPP.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.SharePointProvider.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Interop.TASKLAUNCHLib.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.GiveReciept.resources
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\NemroTech.mdf
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\NemroTech_log.ldf
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Selected_Payments.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.SelectedPayment.resources
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Report.resources
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.csprojResolveAssemblyReference.cache
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.RecordChange.resources
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\Nemro.exe.manifest
+E:\Project Files\C#\Nemro\Nemro\bin\Debug\Nemro.application
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.exe.manifest
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.application
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.TrustInfo.xml
+E:\Project Files\C#\Nemro\Nemro\obj\x86\Debug\Nemro.Details1.resources
+C:\Nemro\Nemro\bin\Debug\NemroTech.mdf
+C:\Nemro\Nemro\bin\Debug\NemroTech_log.ldf
+C:\Nemro\Nemro\bin\Debug\Nemro.exe.config
+C:\Nemro\Nemro\bin\Debug\Nemro.exe.manifest
+C:\Nemro\Nemro\bin\Debug\Nemro.application
+C:\Nemro\Nemro\bin\Debug\Nemro.exe
+C:\Nemro\Nemro\bin\Debug\Nemro.pdb
+C:\Nemro\Nemro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.csprojResolveAssemblyReference.cache
+C:\Nemro\Nemro\obj\x86\Debug\Interop.LCC11.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.MsoScreenRecorderLib.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.NoteLinkComLib.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.ONAddInForPPT.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.ONAddInForWord.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.ONButtonAddInForPPT.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.OneNoteEx.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.OneNoteIEAddin.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.OSE.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.otkloadr.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.OWSSUPP.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.SharePointProvider.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.TASKLAUNCHLib.dll
+C:\Nemro\Nemro\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.ResolveComReference.cache
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Admin_Only.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Admin.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Client.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.CustomerSearch.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.CustomerSearchUC.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Details1.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Login.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.GiveReciept.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.NewBill.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Payment.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.paymentUserControl.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Properties.Resources.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.RecordChange.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Report.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.Selected_Payments.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.SelectedPayment.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.UserControl1.resources
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.GenerateResource.Cache
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.TrustInfo.xml
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.exe.manifest
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.application
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.exe
+C:\Nemro\Nemro\obj\x86\Debug\Nemro.pdb
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.csprojAssemblyReference.cache
+F:\Nemro\Nemro\obj\x86\Debug\Interop.MSDAOSP.dll
+F:\Nemro\Nemro\obj\x86\Debug\Interop.OneNoteEx.dll
+F:\Nemro\Nemro\obj\x86\Debug\Interop.OneNoteIEAddin.dll
+F:\Nemro\Nemro\obj\x86\Debug\Interop.VSTOEE100.dll
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.ResolveComReference.cache
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Admin_Only.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Admin.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Client.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.CustomerSearch.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.CustomerSearchUC.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Details1.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Login.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.GiveReciept.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.NewBill.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Payment.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.paymentUserControl.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Properties.Resources.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.RecordChange.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Report.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.Selected_Payments.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.SelectedPayment.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.UserControl1.resources
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.GenerateResource.cache
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.csproj.CoreCompileInputs.cache
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.exe
+F:\Nemro\Nemro\obj\x86\Debug\Nemro.pdb
